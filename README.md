@@ -21,7 +21,4 @@ https://github.com/Harshkumargith/sidebar_menu
 
 2. Open `index.html` in your browser
 
-## 📄 License
 
-MIT License  
-**Author**: Harsh Kumar
